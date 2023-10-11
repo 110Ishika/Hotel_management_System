@@ -6,5 +6,4 @@ This System aims to facilitate easy management and administration of a hotels wi
 Modules of the system.<br>
 •	Room Enquiry and Reservation <br>
 •	Check In/Check-out Module<br>
-•	Booking Module<br>
 •	Bills and Payments Module<br.
